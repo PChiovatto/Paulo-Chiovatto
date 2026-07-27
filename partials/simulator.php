@@ -1,11 +1,12 @@
 <section id="simulador">
   <div class="container">
     <div class="section-head section-head--center" data-reveal>
-      <span class="tag">Ferramenta gratuita</span>
-      <h2>Quanto a sua verba compra em CTV?</h2>
+      <span class="tag">Amostra grátis do curso</span>
+      <h2>Experimente uma aula antes de comprar</h2>
       <p class="lead">
-        Mexa nos controles e veja o que muda. É o mesmo raciocínio que você vai
-        aplicar no Módulo 4 — só que aqui, com a sua verba real.
+        Esta é a conta do Módulo 4, do jeito que ela é ensinada lá dentro: com os
+        números na frente e você mexendo. Se aprender assim funciona para você,
+        o curso inteiro é isso — <?= e(TOTAL_LESSONS) ?> vezes.
       </p>
     </div>
 

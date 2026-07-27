@@ -39,6 +39,20 @@ $PILLARS = [
      'text' => 'Alcance incremental, DPVR, Brand Lift e a ponte entre CTV e venda. Como sair da reunião com o cliente convencido — e com o budget renovado.'],
 ];
 
+// --- Antes / depois do curso ---------------------------------------------
+$TRANSFORMATION = [
+    ['before' => 'Abre três abas no Google quando o cliente fala em CTV',
+     'after'  => 'Explica o ecossistema inteiro de cabeça, com exemplo'],
+    ['before' => 'Espalha verba em compras soltas e perde o controle',
+     'after'  => 'Consolida buying e controla frequência no domicílio'],
+    ['before' => 'Entrega relatório de impressões e visualizações',
+     'after'  => 'Entrega alcance incremental e resultado de negócio'],
+    ['before' => 'Depende de outra pessoa para montar a campanha',
+     'after'  => 'Sobe campanha sozinho, do briefing ao relatório'],
+    ['before' => 'Oferece ao cliente o que sempre ofereceu',
+     'after'  => 'Abre uma linha nova de receita com CTV Ads'],
+];
+
 // --- Para quem é ---------------------------------------------------------
 $AUDIENCE = [
     ['icon' => '📊', 'title' => 'Profissionais de mídia',

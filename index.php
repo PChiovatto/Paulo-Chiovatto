@@ -83,6 +83,7 @@ $assetsV   = '1.0.0'; // suba este número ao alterar CSS/JS para furar cache do
   <?php
   include __DIR__ . '/partials/hero.php';
   include __DIR__ . '/partials/problem.php';
+  include __DIR__ . '/partials/transformation.php';
   include __DIR__ . '/partials/simulator.php';
   include __DIR__ . '/partials/audience.php';
   include __DIR__ . '/partials/curriculum.php';

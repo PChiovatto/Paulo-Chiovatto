@@ -33,11 +33,12 @@
 <section class="section--alt">
   <div class="container">
     <div class="section-head section-head--center" data-reveal>
-      <span class="tag">Comparativo</span>
-      <h2>Por que CTV, e não só o que você já faz</h2>
+      <span class="tag">Você vai saber defender</span>
+      <h2>A tabela que você desenha no quadro</h2>
       <p class="lead">
-        CTV junta a força da televisão com o controle do digital. É por isso que
-        ela não substitui o seu plano — ela o completa.
+        Na primeira reunião depois do curso, é isto que você explica sem consultar
+        nada. Não é para decorar agora — é para você ver o tipo de argumento que
+        sai pronto do outro lado.
       </p>
     </div>
 

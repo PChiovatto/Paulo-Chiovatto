@@ -6,7 +6,7 @@
     <div data-reveal>
       <span class="badge">
         <span class="badge-dot" aria-hidden="true"></span>
-        Turma <?= e(COURSE_START_LABEL) ?>
+        Curso online · Turma <?= e(COURSE_START_LABEL) ?>
       </span>
 
       <h1>TV que <em>Vende</em></h1>
@@ -14,9 +14,9 @@
       <p class="hero-sub"><?= e(COURSE_TAGLINE) ?></p>
 
       <p class="hero-promise">
-        64% da população digital brasileira já assiste CTV. Quatro horas por dia,
-        com duas pessoas na sala. A maioria das marcas ainda não chegou lá —
-        mas você vai chegar antes delas.
+        64% da população digital brasileira já assiste CTV — quatro horas por dia,
+        com duas pessoas na sala. Faltam profissionais que saibam operar esse canal.
+        São <?= e(TOTAL_LESSONS) ?> aulas para você virar um deles.
       </p>
 
       <div class="hero-actions">
@@ -38,17 +38,17 @@
           <div class="tv-screen">
             <div class="tv-shine" aria-hidden="true"></div>
             <div class="tv-ui">
-              <span class="tv-chip">Anúncio</span>
+              <span class="tv-chip">▶ Módulo 3 · Aula 4</span>
               <div class="tv-copy">
-                <strong>A sua marca, na sala dela.</strong>
-                <span>Tela grande · som alto · sem pular</span>
+                <strong>Consolidar buying para controlar frequência</strong>
+                <span><?= e(TOTAL_LESSONS) ?> aulas · <?= e(TOTAL_HOURS) ?> · acesso imediato</span>
                 <div class="tv-bar" aria-hidden="true"><i></i></div>
               </div>
             </div>
           </div>
         </div>
         <div class="tv-stand" aria-hidden="true"></div>
-        <p class="tv-caption">É esse o lugar que você vai aprender a comprar.</p>
+        <p class="tv-caption">O curso inteiro, no seu ritmo, quando você quiser.</p>
       </div>
     </div>
   </div>
